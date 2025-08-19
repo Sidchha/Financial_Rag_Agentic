@@ -2,4 +2,7 @@ python-dotenv
 langchain
 langchain-community
 langchain-google-genai
+langgraph
 faiss-cpu
+faiss-gpu
+pypdf
